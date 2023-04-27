@@ -4,3 +4,5 @@ myResolusi Javascript
   + DOM Manipulation
 - Javascript Lanjutan
 - Javascript Asyncronus
+- Javascript Framework
+- Javascript ES6

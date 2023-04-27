@@ -5,4 +5,6 @@ myResolusi Javascript
 - Javascript Lanjutan
 - Javascript Asyncronus
 - Javascript Framework
+  + React JS
+  + Vue JS
 - Javascript ES6

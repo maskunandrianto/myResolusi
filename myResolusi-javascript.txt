@@ -1,0 +1,4 @@
+myResolusi Javascript
+- Javascript DOM
+- Javascript Lanjutan
+- Javascript Asyncronus

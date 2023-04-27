@@ -1,6 +1,6 @@
 MY RESOLUSI
-- mempelajari HTML
 - mempelajari CSS3
 - CSS Layouting
 - mempelajari Javascript
 - mempelajari Boostrap
+- mempelajari HTML 5

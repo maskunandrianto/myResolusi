@@ -3,6 +3,7 @@ myResolusi Javascript
   + DOM Tree
   + DOM Manipulation
 - Javascript Lanjutan
-- Javascript Asyncronus
 - Javascript Framework
+  + React JS
+  + Angular JS
 - Javascript ES6

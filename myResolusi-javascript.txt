@@ -1,4 +1,6 @@
 myResolusi Javascript
 - Javascript DOM
+  + DOM Tree
+  + DOM Manipulation
 - Javascript Lanjutan
 - Javascript Asyncronus
